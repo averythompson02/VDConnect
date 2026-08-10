@@ -1,0 +1,7 @@
+layout:
+  - DrawBox3dView
+  - LinkWorkset
+  - SharedCoordinates
+  - ElementsInABox
+  - ClashColoring
+  - CreatePoint
