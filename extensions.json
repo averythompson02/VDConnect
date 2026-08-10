@@ -1,0 +1,14 @@
+{
+            "builtin": "False",
+            "type": "extension",
+            "rocket_mode_compatible": "True",
+            "name": "VDConnect",
+            "description": "Tools Developed for and by Avery Thompson and Wade Nolan",
+            "author": "Avery Thompson & Wade Nolan",
+            "author_profile": "none",
+            "url": "none",
+            "website": "None",
+            "image": "",
+            "dependencies": []
+        }
+
