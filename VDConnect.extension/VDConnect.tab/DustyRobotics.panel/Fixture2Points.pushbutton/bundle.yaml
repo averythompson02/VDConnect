@@ -1,0 +1,4 @@
+tooltip:
+  en_us: >-
+    Places a Generic Model family instance at the center of each connected detail-line outline.
+    Select the outline detail lines before running the tool.

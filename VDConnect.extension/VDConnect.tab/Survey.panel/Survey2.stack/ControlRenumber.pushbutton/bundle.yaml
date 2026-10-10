@@ -1,0 +1,6 @@
+tooltip:
+  en_us: >-
+    Renumbers the Mark values for instances of one family in the active view. Run the tool, select
+    an instance to choose its family, enter a prefix and starting number, then confirm. Matching
+    instances are numbered top-to-bottom, then left-to-right, using three-digit numbers (for example,
+    FD-001). Existing Mark values are replaced; elements without a writable Mark are skipped.

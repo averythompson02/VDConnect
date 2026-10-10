@@ -1,0 +1,5 @@
+tooltip:
+  en_us: >-
+    Select one or more elements in a crop-capable model view, then run this tool. Choose a title
+    block and view duplication method; for multiple elements, choose whether to combine them or
+    create an individual view per element. The tool creates cropped duplicate view(s) and sheet(s).

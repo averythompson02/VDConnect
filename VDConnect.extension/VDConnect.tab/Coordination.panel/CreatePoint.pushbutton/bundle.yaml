@@ -1,0 +1,6 @@
+tooltip:
+  en_us: >-
+    Places a CoordinatePoint family at a survey-coordinate location. Run the tool, enter a point
+    description, group, northing, easting, and elevation in feet, then click Place Family. The
+    project must contain the CoordinatePoint family and its Point Description, Group, Northing,
+    Easting, and Elevation instance parameters.

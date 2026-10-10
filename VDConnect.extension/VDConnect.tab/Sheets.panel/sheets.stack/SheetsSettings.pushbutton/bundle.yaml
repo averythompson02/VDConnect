@@ -1,0 +1,5 @@
+tooltip:
+  en_us: >-
+    Configure defaults for Duplicate Sheets. Run this tool, choose the duplication method and
+    copies per sheet, set sheet number and name suffixes, then choose whether to append a copy
+    index and open the last created sheet. Settings are saved for future duplications.

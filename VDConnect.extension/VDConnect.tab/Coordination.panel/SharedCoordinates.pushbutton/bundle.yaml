@@ -1,0 +1,5 @@
+tooltip:
+  en_us: >-
+    Exports Survey Point and Project Base Point coordinates and angle to true north for the active
+    model and selected Revit links. Run the tool, keep or change the preselected links, then choose
+    where to save the Excel file. Coordinate differences are highlighted.

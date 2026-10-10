@@ -1,0 +1,8 @@
+tooltip:
+  en_us: >-
+    Imports cabinet locations from a CSV or XLSX schedule and places the selected Revit family type.
+    The schedule must contain Cabinet, X Coordinate, and Y Coordinate headers; Power, Data, and Spare
+    are optional. Choose the coordinate units, then pick the schedule origin in the model. Each row's
+    X/Y offsets are measured from that point; Cabinet is written to instance Comments, and optional
+    values are written to matching instance parameters. Invalid rows and placement or parameter issues
+    are included in the import report.

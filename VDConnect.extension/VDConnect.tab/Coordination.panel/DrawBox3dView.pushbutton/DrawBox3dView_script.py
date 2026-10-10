@@ -1,4 +1,14 @@
 __title__ = "Draw Box\n3d View"
+__doc__ = """Create a section-boxed 3D view from an area in a floor plan or RCP.
+
+Usage:
+1. Run from a floor plan or reflected ceiling plan.
+2. Drag to enclose the desired area and release.
+
+The box height uses the plan's top and bottom clip planes. The view is named
+"3d - <Windows user>"; an existing non-template view with that name is replaced.
+The document is saved automatically.
+"""
 
 from pyrevit import revit, DB
 from pyrevit import forms

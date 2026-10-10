@@ -1,0 +1,7 @@
+tooltip:
+  en_us: >-
+    Places Revit family instances from an Excel worksheet. Put headers in row 1 and one instance per
+    row starting in row 2; include X and Y coordinates, with optional Z, rotation in degrees, and
+    point ID columns. Run the tool, select the workbook and worksheet, map columns, then choose the
+    coordinate system, category, family, and type. Coordinates are in feet. Load the desired family
+    into the project before running.

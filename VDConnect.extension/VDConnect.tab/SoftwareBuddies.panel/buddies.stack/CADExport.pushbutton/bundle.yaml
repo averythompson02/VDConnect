@@ -1,0 +1,5 @@
+tooltip:
+  en_us: >-
+    Exports selected views and sheets to DWG. Select views or sheets in the Project Browser, run
+    the tool, choose an output folder and AutoCAD version, then answer whether to use shared
+    coordinates and merge views on sheets.

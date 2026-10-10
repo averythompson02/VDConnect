@@ -1,0 +1,5 @@
+tooltip:
+  en_us: >-
+    Colors and selects elements listed in an Excel or CSV file. Run the tool, choose the file, and
+    include element IDs; a document title column is recommended to limit processing to the active
+    model. Matching elements visible in the active view are selected, zoomed to, and overridden in red.

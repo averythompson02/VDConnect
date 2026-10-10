@@ -1,0 +1,5 @@
+tooltip:
+  en_us: >-
+    Exports IDs of elements in the active view whose bounding boxes intersect the selected
+    element's bounding box. Run the tool, select an element, choose an output folder, and enter
+    a CSV file name. The selected element is excluded.

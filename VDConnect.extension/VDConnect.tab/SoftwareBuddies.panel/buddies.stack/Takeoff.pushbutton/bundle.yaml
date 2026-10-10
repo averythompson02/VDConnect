@@ -1,0 +1,5 @@
+tooltip:
+  en_us: >-
+    Summarizes elements from visible linked models inside the active view crop and view range.
+    Use a plan view with an active crop, then run the tool to review counts by category. Choose
+    Yes to export; select categories to include in the Excel workbook.

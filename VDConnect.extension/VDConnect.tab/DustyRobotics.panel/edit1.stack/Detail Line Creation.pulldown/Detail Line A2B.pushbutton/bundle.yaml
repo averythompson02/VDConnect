@@ -1,0 +1,5 @@
+tooltip:
+  en_us: >-
+    Creates detail lines between elements from exactly two families in the active view. Select at
+    least two elements first, or run the tool and select them when prompted. Every element in one
+    family is connected to every element in the other; lines use the <Thin Lines> style.

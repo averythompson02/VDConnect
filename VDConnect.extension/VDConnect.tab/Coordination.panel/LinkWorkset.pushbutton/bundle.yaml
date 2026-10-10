@@ -1,0 +1,5 @@
+tooltip:
+  en_us: >-
+    Lists linked-model worksets and their open/closed status. Run the tool, check the links whose
+    worksets you need, then click OK to show their elements. Selecting multiple links on one workset
+    may take longer.
