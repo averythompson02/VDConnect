@@ -1,0 +1,11 @@
+title:
+  en_us: Buddies
+  ko: 수정
+  fr_fr: Modifier
+  ru: Изменить
+  chinese_s: 修改
+  es_es: Modificar
+  de_de: Ändern
+  pt_br: Modificar
+layout:
+  - buddies
